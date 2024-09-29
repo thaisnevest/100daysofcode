@@ -24,3 +24,10 @@
 
 ---
 
+### Day 4 - September 29, 2024
+
+**Today’s Progress**: Today I still focused on the components of FAI's challenge, and I realized that this is going to take a while because there are a lot of components to do and I'm still remembering how to style - MUI mainly - because it's been a while since I've worked on it, but I think my knowledge curve it's very good. I'm thinking about starting the backend soon as it's something I'll need to study a little more
+
+**Link to Code**: [Code for Day 3](https://github.com/thaisnevest/brainhub-client/tree/components)
+
+
